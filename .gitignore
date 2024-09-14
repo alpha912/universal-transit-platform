@@ -170,3 +170,5 @@ __pycache__/
 
 # VS Code Settings
 .vscode/
+
+data/gtfs/stop_times.txt
