@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration,fare_note
+1,1.75,USD,0,0,,Cash
+2,1.75,USD,0,,7200,TAP Card
+3,1.75,USD,1,,7200,TAP Before Boarding
